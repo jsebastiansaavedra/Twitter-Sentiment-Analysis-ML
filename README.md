@@ -3,5 +3,3 @@ In this project, I performed sentiment analysis on a dataset of 23k tweets that 
 
 
 This visualization displays the most frequently occurring words in Twitter data for each sentiment category: positive, negative, and neutral. By analyzing the words most commonly associated with each sentiment, we gain insights into the language used to express different emotional states on social media. This can inform our understanding of how sentiment is expressed and detected in online discourse, with potential applications in marketing, politics, and social research.
-
-![Words most used](Tableau_dashboard.png)
